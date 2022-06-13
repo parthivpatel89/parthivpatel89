@@ -4,7 +4,7 @@
 **parthivpatel89/parthivpatel89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
+> Imagination is better then knowledge
 - 🔭 I’m currently working on Hybrid Framework for Mobile App Development
 - 🌱 I’m currently learning Flutter framework
 - 👯 I’m looking to collaborate on various mobility projects
