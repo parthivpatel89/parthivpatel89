@@ -1,5 +1,5 @@
 
-## Hola, I'm [Parthiv Patel!](https://pawan.live) 👋
+## Hola, I'm [Parthiv Patel!](https://sites.google.com/view/parthiv-patel/home) 👋
 <!-- ### Hi there 👋 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivpatel89&label=Views&color=blue&style=plastic" alt="parthivpatel89" /> </p>
 # 💫About Me :
